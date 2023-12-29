@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "FBxFp0+VXxqWkyIbS1zOkPwZy4AdW+LRHId4oAF6FdqGnEQ/dPdli+mj4usfHHz9Cejdic/DGjyr8j+JTgcIuA==",
+  "success": true,
+  "projectFilePath": "/home/cedric/Bureau/AprentissageC#/Data/Data.csproj",
+  "expectedPackageFiles": [
+    "/home/cedric/.nuget/packages/csvhelper/30.0.1/csvhelper.30.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
