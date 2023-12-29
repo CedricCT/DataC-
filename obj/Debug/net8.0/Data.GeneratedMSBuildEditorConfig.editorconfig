@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Data
-build_property.ProjectDir = /home/cedric/Bureau/AprentissageC#/Data/
+build_property.ProjectDir = /home/cedric/Bureau/AprentissageC#/DataCsharp/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

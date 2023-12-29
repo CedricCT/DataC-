@@ -54,11 +54,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/cedric/Bureau/AprentissageC#/Data/Data.csproj",
+      "projectUniqueName": "/home/cedric/Bureau/AprentissageC#/DataCsharp/Data.csproj",
       "projectName": "Data",
-      "projectPath": "/home/cedric/Bureau/AprentissageC#/Data/Data.csproj",
+      "projectPath": "/home/cedric/Bureau/AprentissageC#/DataCsharp/Data.csproj",
       "packagesPath": "/home/cedric/.nuget/packages/",
-      "outputPath": "/home/cedric/Bureau/AprentissageC#/Data/obj/",
+      "outputPath": "/home/cedric/Bureau/AprentissageC#/DataCsharp/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/cedric/.nuget/NuGet/NuGet.Config"
